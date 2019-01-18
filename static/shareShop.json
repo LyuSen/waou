@@ -1,0 +1,63 @@
+{
+  "data": [
+    {
+      "goods_name":"农夫山泉17.5度橙6斤装铂金版",
+      "share_src": "../assets/cutPic/1.png",
+      "sec_src": "../assets/cutPic/农夫山泉17.5度橙6斤装铂金版.png",
+      "pic_id": "1",
+      "price": 69.00,
+      "oldPri":125.00,
+      "type":1
+    },
+    {
+      "goods_name":"大凉山红颜草莓约3斤",
+      "share_src": "../assets/cutPic/2.png",
+      "sec_src": "../assets/cutPic/大凉山红颜草莓约3斤.png",
+      "pic_id": "2",
+      "price": 125.00,
+      "oldPri":159.00,
+      "type":1
+    },
+    {
+      "goods_name":"开小差爆米花100g*3（奶油味+焦糖味+芝麻味）",
+      "share_src": "../assets/cutPic/3.png",
+      "sec_src": "../assets/cutPic/开小差爆米花100g-3(奶油味+焦糖味+芝麻味).png",
+      "pic_id": "3",
+      "price": 224.00,
+      "oldPri":420.00,
+      "type":1
+    },
+    {
+      "goods_name":"肉松饼 30克*6",
+      "share_src": "../assets/cutPic/4.png",
+      "sec_src": "../assets/cutPic/大凉山红颜草莓约3斤.png",
+      "pic_id": "4",
+      "price": 32.00,
+      "oldPri":69.00,
+      "type":1
+    },
+    {
+      "goods_name":"俄罗斯制造 木瓜生物活性牙膏",
+      "share_src": "../assets/cutPic/5.png",
+      "sec_src": "../assets/cutPic/大凉山红颜草莓约3斤.png",
+      "pic_id": "5",
+      "price": 25.00,
+      "oldPri":59.00,
+      "type":1
+    },
+    {
+      "goods_name":"智能感体按摩椅",
+      "share_src": "../assets/cutPic/6.png",
+      "sec_src": "../assets/cutPic/大凉山红颜草莓约3斤.png",
+      "detail_Topsrc":"../assets/cutPic/牙膏主图.png",
+      "detail_Bottomsrc":"../assets/cutPic/牙膏详情.png",
+      "pic_id": "6",
+      "price": 7199.00,
+      "oldPri":8000.00,
+      "type":1
+    }
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
